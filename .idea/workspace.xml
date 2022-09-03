@@ -5,16 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fa424c1-d632-46af-9714-4e66f439b5f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/services/userServices/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-management-service" beforeDir="false" afterPath="$PROJECT_DIR$/account-management-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-management-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-management-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-management-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-management-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-management-service/mvnw.cmd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/account-management-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/account-management-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/account-management-service/src/main/java/com/etg/accountmanagementservice/AccountManagementServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-management-service/src/main/java/com/etg/accountmanagementservice/AccountManagementServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-management-service/src/main/java/com/etg/accountmanagementservice/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-management-service/src/main/java/com/etg/accountmanagementservice/controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-management-service/src/test/java/com/etg/accountmanagementservice/AccountManagementServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-management-service/src/test/java/com/etg/accountmanagementservice/AccountManagementServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/java/com/etg/discoveryservice/DiscoveryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/src/main/java/com/sewah/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/test/java/com/etg/discoveryservice/DiscoveryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/etg/gatewayservice/GatewayServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/etg/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/src/test/java/com/etg/gatewayservice/GatewayServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/test/java/com/etg/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/UsersServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/UsersServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/configProperties/JwtConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/configProperties/JwtConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/controllers/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/controllers/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/dtos/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/dtos/ErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/dtos/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/dtos/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/dtos/ResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/dtos/ResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/dtos/UserResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/dtos/UserResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/dtos/UserSignupDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/dtos/UserSignupDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/entities/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/entities/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/exceptions/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/exceptions/errors/ResourceAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/exceptions/errors/ResourceAlreadyExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/exceptions/errors/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/exceptions/errors/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/mappers/MapStructConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/mappers/MapStructConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/mappers/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/mappers/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/repositories/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/repositories/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/security/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/security/AuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/security/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/security/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/services/userServices/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/services/userServices/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/services/userServices/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/main/java/com/etg/usersservice/services/userServices/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/main/java/com/sewah/usersservice/services/userServices/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-service/src/test/java/com/etg/usersservice/UsersServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-service/src/test/java/com/sewah/usersservice/UsersServiceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +76,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/account-management-service" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,18 +99,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="JarApplication" />
+        <option value="MavenRunConfiguration" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UsersServiceApplication">
+    <configuration name="AccountManagementServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ACCCOUNT-MANAGEMENT-SERVICE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sewah.accountmanagementservice.AccountManagementServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sewah.discoveryservice.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sewah.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="users-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sewah.usersservice.UsersServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.UsersServiceApplication" />
+      <item itemvalue="Spring Boot.AccountManagementServiceApplication" />
+      <item itemvalue="Spring Boot.GatewayServiceApplication" />
+      <item itemvalue="Spring Boot.DiscoveryServiceApplication" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +175,10 @@
       <option name="presentableId" value="Default" />
       <updated>1661865423399</updated>
       <workItem from="1661865425103" duration="1559000" />
-      <workItem from="1662198407888" duration="1183000" />
+      <workItem from="1662198407888" duration="2277000" />
+      <workItem from="1662200712591" duration="547000" />
+      <workItem from="1662201288028" duration="965000" />
+      <workItem from="1662202282060" duration="7262000" />
     </task>
     <servers />
   </component>
