@@ -1,0 +1,36 @@
+server:
+  port: 0 #for automatic port assignment
+  servlet:
+    context-path: /api
+spring:
+  application:
+    name: USERS-SERVICE
+  devtools:
+    restart:
+      enabled: true
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+  datasource:
+    url: jdbc:postgresql://localhost:5432/microserviceDB
+    username: root
+    password: root
+    driverClassName: org.postgresql.Driver
+  sql:
+    init:
+      platform: postgres
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka
+
+security:
+  jwt:
+    ttl: 1000000
+    secret: xakdlfjakldkdeudjekaldikakdlldkdkd
+
+
+
